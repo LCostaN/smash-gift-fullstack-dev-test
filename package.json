@@ -1,0 +1,16 @@
+{
+  "name": "smash-gift-fullstack-dev-test",
+  "version": "1.0.0",
+  "description": "Fullstack test for Smash Gifts",
+  "main": "dist/app.js",
+  "scripts": {
+    "upload": "node upload-csv.js"
+  },
+  "keywords": [],
+  "author": "LCostaN",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.3",
+    "firebase-admin": "^11.0.1"
+  }
+}
