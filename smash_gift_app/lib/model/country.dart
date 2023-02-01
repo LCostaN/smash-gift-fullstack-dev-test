@@ -12,6 +12,8 @@ class Country {
     String name = doc.get('country');
     List<City> cities = (doc.get('cities') as List).map((e) => City.fromDoc(e)).toList();
 
+    cities.sort((a, b) => a.name.compareTo(b.name));
+
     return Country(id, name, cities);
   }
 }
