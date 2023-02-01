@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836878299351",
+    "project_id": "test-smash-gifts",
+    "storage_bucket": "test-smash-gifts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836878299351:android:a28081d31d484244868092",
+        "android_client_info": {
+          "package_name": "br.com.LCostaN.smash_gift_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836878299351-flbnmqtlbm6nonndcaeoccv8oqhfi23b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGmYgX2QwksI-dLEzsXHC6FDzqejkuNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836878299351-flbnmqtlbm6nonndcaeoccv8oqhfi23b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
